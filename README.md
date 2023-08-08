@@ -5,6 +5,7 @@
 
 
 # How to use
+## Command Prompt
 1. Download or clone this repo
 2. Open command prompt or terminal in the directory this script is in
 3. Type `main.py convert path/to/file.png` to convert a .png, jpg, etc into a .rustam (Example: main.py convert C:/Users/Rustam/Downloads/DotRustam/Rustam.png)
